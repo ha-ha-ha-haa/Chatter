@@ -1,0 +1,18 @@
+@media screen and (max-width: 767px) {
+    .members{
+        display: none;
+    }
+    
+    .chat{
+        width: 100%;
+    }
+}
+
+.chat{
+
+}
+
+
+
+/* .taha{
+    height: 100%;} */
